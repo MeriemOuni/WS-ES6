@@ -1,4 +1,4 @@
-// export const a =1;
+// export const car = 1;
 
 // export let tab = [12, 58, 3];
 
